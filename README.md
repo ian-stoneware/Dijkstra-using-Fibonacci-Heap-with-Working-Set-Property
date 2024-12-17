@@ -28,3 +28,8 @@ To use this project, follow these steps:
 6. Run visual.py to get the result of how a Dijkstra Algorithm to get the shortest path:
    ```bash
    python visual.py
+
+## Results
+The performance comparisons are make with nodes numbers range from 100 to 1000 and 500 to 5000.
+<img src="https://github.com/ian-stoneware/Dijkstra-using-Fibonacci-Heap-with-Working-Set-Property/blob/main/comparison.jpg" width="800">
+<img src="https://github.com/ian-stoneware/Dijkstra-using-Fibonacci-Heap-with-Working-Set-Property/blob/main/comparison5000.jpg" width="800">
