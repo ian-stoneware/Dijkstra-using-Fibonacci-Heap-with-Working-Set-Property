@@ -13,10 +13,13 @@ To use this project, follow these steps:
    cd dijkstra-algorithm
    
 2. Run main.py to get the time comsuming comparison:
+   ```bash
    python main.py
 
-3. Run animation.py to get the animation of how a Dijkstra Algorithm to get the shortest path:
+4. Run animation.py to get the animation of how a Dijkstra Algorithm to get the shortest path:
+   ```bash
    python animation.py
 
-4. Run visual.py to get the result of how a Dijkstra Algorithm to get the shortest path:
+6. Run visual.py to get the result of how a Dijkstra Algorithm to get the shortest path:
+   ```bash
    python visual.py
