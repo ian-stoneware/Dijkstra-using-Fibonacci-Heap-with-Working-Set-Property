@@ -2,6 +2,11 @@
 
 ## Description
 This project implements Dijkstra's algorithm for finding the shortest path in a weighted graph. It includes both the naive approach, an optimized version using a Fibonacci heap and another optimized version using a Fibonacci heap with Working Set Property.
+Dijkstra’s Algorithm:
+- 1.	Naïve Implementation: A simple array-based approach.
+- 2.	Fibonacci Heap Optimization: An advanced implementation using a Fibonacci Heap to improve efficiency.
+- 3.	Fibonacci Heap with Working Set Property: A further optimization leveraging the locality of reference.
+
 
 ## Installation
 To use this project, follow these steps:
