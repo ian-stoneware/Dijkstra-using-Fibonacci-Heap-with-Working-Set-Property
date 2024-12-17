@@ -12,11 +12,11 @@ To use this project, follow these steps:
    
    cd dijkstra-algorithm
    
-Run main.py to get the time comsuming comparison.
+2. Run main.py to get the time comsuming comparison:
    python main.py
 
-Run animation.py to get the animation of how a Dijkstra Algorithm to get the shortest path.
+3. Run animation.py to get the animation of how a Dijkstra Algorithm to get the shortest path:
    python animation.py
 
-Run visual.py to get the result of how a Dijkstra Algorithm to get the shortest path.
+4. Run visual.py to get the result of how a Dijkstra Algorithm to get the shortest path:
    python visual.py
